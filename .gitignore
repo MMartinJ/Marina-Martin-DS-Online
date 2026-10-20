@@ -70,8 +70,8 @@ instance/
 
 # Sphinx documentation
 docs/_build/
-*SOL.ipynb
-*SOL.py
+*SOLUTION.ipynb
+*SOLUTION.py
 *.DS_Store
 # PyBuilder
 .pybuilder/
