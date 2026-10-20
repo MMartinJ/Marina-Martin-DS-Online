@@ -1,6 +1,6 @@
 ![LogoTB](logo.png)
 
-# **Data Science Online Marzo 2026**
+# **Data Science Online Octubre 2026**
   - [**Descripción**](#descripción)
   - [**Comentarios y Aclaraciones**](#comentarios-y-aclaraciones)
   - [**Clonar y Actualizar Repositorio con Git Bash**](#clonar-y-actualizar-repositorio-con-Git-Bash)
