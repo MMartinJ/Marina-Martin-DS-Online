@@ -73,6 +73,7 @@ docs/_build/
 *SOLUTION.ipynb
 *SOLUTION.py
 *.DS_Store
+
 # PyBuilder
 .pybuilder/
 target/
